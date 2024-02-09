@@ -1,0 +1,8 @@
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 94.1989 seconds
+slurmstepd: error: *** STEP 6592920.3 ON cn19 CANCELLED AT 2023-11-22T15:23:34 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 6592920 ON cn19 CANCELLED AT 2023-11-22T15:23:34 DUE TO TIME LIMIT ***

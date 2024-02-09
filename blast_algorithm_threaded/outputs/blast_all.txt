@@ -1,0 +1,8 @@
+------------------------------------------------
+
+Wed Nov 22 11:23:32 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 94.1989 seconds

@@ -1,0 +1,128 @@
+------------------------------------------------
+
+Tue Nov 21 23:18:02 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading subject seeds...
+Time taken to load 99990 subject seeds: 0.051685 seconds
+
+From :31930886 Queries, Hits in human genome: 100465
+Time taken to find 31930886 query: 610.909 seconds
+------------------------------------------------
+
+Tue Nov 21 23:18:18 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading subject seeds...
+Time taken to load 9990 subject seeds: 0.005337 seconds
+
+From :31930886 Queries, Hits in human genome: 329227
+Time taken to find 31930886 query: 750.65 seconds
+------------------------------------------------
+
+Wed Nov 22 11:21:32 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+------------------------------------------------
+
+Wed Nov 22 11:23:08 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+------------------------------------------------
+
+Wed Nov 22 12:12:32 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 93.9133 seconds
+
+From :31930886 Queries, Hits in human genome: 66041
+Time taken to find 31930886 query: 38.8949 seconds
+------------------------------------------------
+
+Wed Nov 22 12:14:14 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 93.4556 seconds
+
+From :31930886 Queries, Hits in human genome: 9667
+Time taken to find 31930886 query: 50.9741 seconds
+------------------------------------------------
+
+Wed Nov 22 13:20:34 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 93.4691 seconds
+
+From :31930886 Queries, Hits in human genome: 26615169
+Time taken to find 31930886 query: 38.5999 seconds
+------------------------------------------------
+
+Wed Nov 22 13:22:15 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 93.583 seconds
+
+From :31930886 Queries, Hits in human genome: 15075360
+Time taken to find 31930886 query: 25.1521 seconds
+------------------------------------------------
+
+Wed Nov 22 13:56:37 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 92.2062 seconds
+
+From :31930886 Queries, Hits in human genome: 26816612
+Time taken to find 31930886 query: 38.6558 seconds
+------------------------------------------------
+
+Wed Nov 22 13:58:16 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 95.2349 seconds
+
+From :31930886 Queries, Hits in human genome: 589591001
+Time taken to find 31930886 query: 1473.15 seconds
+------------------------------------------------
+
+Thu Nov 23 18:14:43 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 25.2029 seconds
+
+From :99985 Fragments , Hits in Queries: 74830
+Time taken to find 99985 Fragments in Queries: 9.0834 seconds
+------------------------------------------------
+
+Thu Nov 23 18:16:03 MST 2023
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 25.0548 seconds
+
+From :99985 Fragments , Hits in Queries: 35243184
+Time taken to find 99985 Fragments in Queries: 384.488 seconds

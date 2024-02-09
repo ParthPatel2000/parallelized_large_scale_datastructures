@@ -1,0 +1,45 @@
+[pp594@wind ~/hw5 ]$ make runa
+./main --genome /scratch/pp594/data/human.txt  --fragments 5000 --search basic --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 2100910458
+Search Type: basic
+Mismatch tolerance: 1
+
+Number of fragments: 5000
+Number of nodes: 144328
+Number of matches: 4805
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 50000 --search basic --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 763903133
+Search Type: basic
+Mismatch tolerance: 1
+
+Number of fragments: 50000
+Number of nodes: 903325
+Number of matches: 32232
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 100000 --search basic --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 1874440735
+Search Type: basic
+Mismatch tolerance: 1
+
+Number of fragments: 100000
+Number of nodes: 1234023
+Number of matches: 43382
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 1000000 --search basic --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 535607074
+Search Type: basic
+Mismatch tolerance: 1
+
+Number of fragments: 1000000
+Number of nodes: 1405644
+Number of matches: 51076
+------------------------------------------------------------------

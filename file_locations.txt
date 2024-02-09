@@ -1,0 +1,4 @@
+query_file: /common/contrib/classroom/inf503/human_reads_2_trimmed.fa
+
+genome_file: /common/contrib/classroom/inf503/genomes/human.txt
+

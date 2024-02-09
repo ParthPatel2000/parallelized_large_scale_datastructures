@@ -1,0 +1,2 @@
+Sat Nov  4 23:35:03 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search >> test_output.txt

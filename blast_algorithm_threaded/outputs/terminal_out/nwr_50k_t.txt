@@ -1,0 +1,13 @@
+rm -f *.o *.txt main
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -I.  -c -o main.o main.cpp
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -c genome_functions.cpp -o genome_functions.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -c queries_reader.cpp -o queries_reader.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -c queries_nw.cpp -o queries_nw.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -c queries_bl.cpp -o queries_bl.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -lpthread -o main main.o genome_functions.o queries_reader.o queries_nw.o queries_bl.o
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 6587576.4 ON cn5 CANCELLED AT 2023-11-23T04:54:25 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 6587576 ON cn5 CANCELLED AT 2023-11-23T04:54:25 DUE TO TIME LIMIT ***

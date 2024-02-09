@@ -1,0 +1,17 @@
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 25.2029 seconds
+
+From :99985 Fragments , Hits in Queries: 74830
+Time taken to find 99985 Fragments in Queries: 9.0834 seconds
+Normal search
+Genome Length: 3057186663
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+Loading query seeds...
+Time taken to load 31930886 queries 25.0548 seconds
+
+From :99985 Fragments , Hits in Queries: 35243184
+Time taken to find 99985 Fragments in Queries: 384.488 seconds

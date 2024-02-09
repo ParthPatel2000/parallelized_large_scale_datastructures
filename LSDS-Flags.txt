@@ -1,0 +1,8 @@
+Flag1- 1f87061d3a1e34eb210230f6483768fd
+
+flag2 - 4748497d35ba8959d6fd80704d079f84
+
+Flag 3 - number of processes in running state - 202
+	 Number of processes in pending state - 26
+
+Flag-4 - ee86bc3d6afb7492c5439b57310b0448

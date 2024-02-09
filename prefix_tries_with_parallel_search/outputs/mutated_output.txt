@@ -1,0 +1,49 @@
+[pp594@wind ~/hw5 ]$ make runb
+./main --genome /scratch/pp594/data/human.txt  --fragments 5000 --search mutate --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 1672096420
+Search Type: mutate
+Mismatch tolerance: 1
+Error rate: 5%
+
+Number of fragments: 5000
+Number of nodes: 150586
+Number of matches: 3009
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 50000 --search mutate --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 2011210827
+Search Type: mutate
+Mismatch tolerance: 1
+Error rate: 5%
+
+Number of fragments: 50000
+Number of nodes: 1304386
+Number of matches: 29708
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 100000 --search mutate --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 972568955
+Search Type: mutate
+Mismatch tolerance: 1
+Error rate: 5%
+
+Number of fragments: 100000
+Number of nodes: 2384805
+Number of matches: 55591
+------------------------------------------------------------------
+./main --genome /scratch/pp594/data/human.txt  --fragments 1000000 --search mutate --mismatch 1
+------------------------------------------------------------------
+Genome Length: 3057186663
+Chosen index: 1776650154
+Search Type: mutate
+Mismatch tolerance: 1
+Error rate: 5%
+
+Number of fragments: 1000000
+Number of nodes: 16389936
+Number of matches: 394299
+------------------------------------------------------------------

@@ -1,0 +1,11 @@
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -c queries_nw.cpp -o queries_nw.o
+queries_nw.cpp: In member function ‘long long int QUERIES_NW::search(char*, int)’:
+queries_nw.cpp:130:9: warning: unused variable ‘run_flag’ [-Wunused-variable]
+     int run_flag = 1;
+         ^~~~~~~~
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -fopenmp -lpthread -o main main.o genome_functions.o queries_reader.o queries_nw.o queries_bl.o
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+From :9985 Fragment , Hits in Queries: 82502
+Time taken to find 9985 query: 164502 seconds

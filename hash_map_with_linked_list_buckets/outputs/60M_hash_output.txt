@@ -1,0 +1,16 @@
+g++ -c main.cpp -lpthread -o main.o	
+g++ main.o genome_functions.o queries_ht.o -lpthread -o executable
+./executable /common/contrib/classroom/inf503/genomes/human.txt /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+collision count: 31865265
+hash table created
+Time taken to create hash table: 9.3574 seconds
+searching queries:
+
+threads created
+total found: 630073224
+
+Time taken to search 3057186648 queries: 630053 seconds
+Program ended

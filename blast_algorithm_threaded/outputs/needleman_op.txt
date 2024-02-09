@@ -1,0 +1,9 @@
+------------------------------------------------
+
+Sat Nov 18 21:43:21 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 100
+Genome Length: 3057186663
+Reading queries from file /common/contrib/classroom/inf503/human_reads_2_trimmed.fa
+Total queries read: 31930886
+From :100 Queries, Hits: 99
+Time taken to find 100 query: 2983.57 seconds

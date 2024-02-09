@@ -1,0 +1,537 @@
+Sun Nov  5 12:54:42 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+max collisions on a key: 82563
+most common key: 48828124
+last key index: 48828124
+Time taken to create hash table: 18.7403 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 12918.8 seconds
+Program ended
+
+
+Sun Nov  5 13:04:10 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+max collisions on a key: 82563
+most common key: 48828124
+last key index: 48828124
+Time taken to create hash table: 18.6393 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 12711.4 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 13:09:17 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+------------------------------------------------
+
+Sun Nov  5 13:15:54 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+Time taken to create hash table: 18.5485 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 12754.4 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 13:29:06 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+Time taken to create hash table: 18.6401 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 12841.4 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 13:36:40 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+Time taken to create hash table: 18.7097 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 12752.1 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 13:47:49 MST 2023
+1M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 31865265
+Time taken to create hash table: 11.3192 seconds
+Program ended
+
+10M
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 31669873
+Time taken to create hash table: 13.549 seconds
+Program ended
+
+30M
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 30936171
+Time taken to create hash table: 16.0792 seconds
+Program ended
+
+60M
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+Time taken to create hash table: 18.7183 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 14:08:11 MST 2023
+
+1M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 31865265
+Time taken to create hash table: 16.7925 seconds
+Program ended
+
+10M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 31669873
+Time taken to create hash table: 20.4033 seconds
+Program ended
+
+30M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 30936171
+Time taken to create hash table: 23.6451 seconds
+Program ended
+
+60M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 28668603
+Time taken to create hash table: 26.5252 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 14:41:44 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23284289
+Time taken to create hash table: 22.8767 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 1162797166
+
+Time taken to search 3057186648 fragments: 3678.53 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 15:00:05 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23284289
+Time taken to create hash table: 23.7542 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 4231.52 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 15:04:06 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 25.6749 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 4081.29 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 15:33:17 MST 2023
+
+1M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 31668764
+Time taken to create hash table: 30.6452 seconds
+Program ended
+
+10M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 29967957
+Time taken to create hash table: 32.6999 seconds
+Program ended
+
+30M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 26815039
+Time taken to create hash table: 32.9711 seconds
+Program ended
+
+60M
+
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 32.7122 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 15:57:58 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.5412 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 4086.12 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 16:03:16 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.6539 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 4092.89 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 16:30:25 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.841 seconds
+searching queries:
+
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+subsequence: ACCCTAACCCTAACCC found.
+subsequence: CCCTAACCCTAACCCT found.
+subsequence: CCTAACCCTAACCCTA found.
+subsequence: CTAACCCTAACCCTAA found.
+subsequence: TAACCCTAACCCTAAC found.
+subsequence: AACCCTAACCCTAACC found.
+
+threads created: 64
+total found: 630073224
+
+Time taken to search 3057186648 fragments: 4109.85 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 16:40:25 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.7766 seconds
+searching queries:
+
+subsequence 0 :CTAACCCTAACCCTAA found.
+subsequence 1 :TAACCCTAACCCTAAC found.
+subsequence 2 :AACCCTAACCCTAACC found.
+subsequence 3 :ACCCTAACCCTAACCC found.
+subsequence 4 :CCCTAACCCTAACCCT found.
+subsequence 5 :CCTAACCCTAACCCTA found.
+subsequence 6 :CTAACCCTAACCCTAA found.
+subsequence 7 :TAACCCTAACCCTAAC found.
+subsequence 8 :AACCCTAACCCTAACC found.
+subsequence 9 :ACCCTAACCCTAACCC found.
+subsequence 10 :CCCTAACCCTAACCCT found.
+subsequence 11 :CCTAACCCTAACCCTA found.
+subsequence 12 :CTAACCCTAACCCTAA found.
+subsequence 13 :TAACCCTAACCCTAAC found.
+subsequence 14 :AACCCTAACCCTAACC found.
+
+threads created: 64
+total fragments found: 630073224
+
+Time taken to search 3057186648 fragments: 4113.36 seconds
+Program ended
+------------------------------------------------
+
+Sun Nov  5 17:23:12 MST 2023
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.7883 seconds
+searching queries:
+
+subsequence 0 :CTAACCCTAACCCTAA found.
+subsequence 1 :TAACCCTAACCCTAAC found.
+subsequence 2 :AACCCTAACCCTAACC found.
+subsequence 3 :ACCCTAACCCTAACCC found.
+subsequence 4 :CCCTAACCCTAACCCT found.
+subsequence 5 :CCTAACCCTAACCCTA found.
+subsequence 6 :CTAACCCTAACCCTAA found.
+subsequence 7 :TAACCCTAACCCTAAC found.
+subsequence 8 :AACCCTAACCCTAACC found.
+subsequence 9 :ACCCTAACCCTAACCC found.
+subsequence 10 :CCCTAACCCTAACCCT found.
+subsequence 11 :CCTAACCCTAACCCTA found.
+subsequence 12 :CTAACCCTAACCCTAA found.
+subsequence 13 :TAACCCTAACCCTAAC found.
+subsequence 14 :AACCCTAACCCTAACC found.
+
+threads created: 64
+total fragments found: 630073224
+
+Time taken to search 3057186648 fragments: 4090.38 seconds
+Program ended

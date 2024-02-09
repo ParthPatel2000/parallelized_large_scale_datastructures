@@ -1,0 +1,16 @@
+------------------------------------------------
+
+Thu Nov 23 19:09:15 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+From :4985 Fragment , Hits in Queries: 42030
+Time taken to find 4985 query: 86921.2 seconds
+------------------------------------------------
+
+Thu Nov 23 19:56:27 MST 2023
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+From :4985 Fragment , Hits in Queries: 40811
+Time taken to find 4985 query: 83557.8 seconds

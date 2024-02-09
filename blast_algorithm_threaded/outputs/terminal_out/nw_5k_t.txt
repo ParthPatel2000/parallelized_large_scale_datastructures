@@ -1,0 +1,6 @@
+make: Nothing to be done for 'build'.
+Random search
+Reading queries from file /scratch/pp594/data/human_reads_2_trimmed.fa
+Total queries read: 31930886
+From :9985 Fragment , Hits in Queries: 90152
+Time taken to find 9985 query: 165644 seconds

@@ -1,0 +1,22 @@
+./executable /common/contrib/classroom/inf503/genomes/human.txt /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+collision count: 31865265
+hash table created
+Time taken to create hash table: 28.3247 seconds
+subsequence: CTAACCCTAACCCTAAfound at: 253766
+subsequence: TAACCCTAACCCTAACfound at: 50753
+subsequence: AACCCTAACCCTAACCfound at: 10150
+subsequence: ACCCTAACCCTAACCCfound at: 80155
+subsequence: CCCTAACCCTAACCCTfound at: 94156
+subsequence: CCTAACCCTAACCCTAfound at: 96956
+subsequence: CTAACCCTAACCCTAAfound at: 253766
+subsequence: TAACCCTAACCCTAACfound at: 50753
+subsequence: AACCCTAACCCTAACCfound at: 10150
+subsequence: ACCCTAACCCTAACCCfound at: 80155
+subsequence: CCCTAACCCTAACCCTfound at: 94156
+subsequence: CCTAACCCTAACCCTAfound at: 96956
+subsequence: CTAACCCTAACCCTAAfound at: 253766
+subsequence: TAACCCTAACCCTAACfound at: 50753
+subsequence: AACCCTAACCCTAACCfound at: 10150

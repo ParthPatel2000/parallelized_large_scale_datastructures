@@ -1,0 +1,34 @@
+rm -f *.o main test_output.txt
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -I.  -c -o main.o main.cpp
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -c genome_functions.cpp -o genome_functions.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -c queries_ht.cpp -o queries_ht.o
+g++ -Wall -Wextra -pedantic -std=c++17 -O3 -lpthread -o main main.o genome_functions.o queries_ht.o
+./main /common/contrib/classroom/inf503/genomes/human.txt  /common/contrib/classroom/inf503/human_reads_2_trimmed.fa 60000000 search 
+Genome Length: 3057186663
+created hash table
+total queries: 31930886
+total collisions: 23137590
+Time taken to create hash table: 23.7883 seconds
+searching queries:
+
+subsequence 0 :CTAACCCTAACCCTAA found.
+subsequence 1 :TAACCCTAACCCTAAC found.
+subsequence 2 :AACCCTAACCCTAACC found.
+subsequence 3 :ACCCTAACCCTAACCC found.
+subsequence 4 :CCCTAACCCTAACCCT found.
+subsequence 5 :CCTAACCCTAACCCTA found.
+subsequence 6 :CTAACCCTAACCCTAA found.
+subsequence 7 :TAACCCTAACCCTAAC found.
+subsequence 8 :AACCCTAACCCTAACC found.
+subsequence 9 :ACCCTAACCCTAACCC found.
+subsequence 10 :CCCTAACCCTAACCCT found.
+subsequence 11 :CCTAACCCTAACCCTA found.
+subsequence 12 :CTAACCCTAACCCTAA found.
+subsequence 13 :TAACCCTAACCCTAAC found.
+subsequence 14 :AACCCTAACCCTAACC found.
+
+threads created: 64
+total fragments found: 630073224
+
+Time taken to search 3057186648 fragments: 4090.38 seconds
+Program ended
